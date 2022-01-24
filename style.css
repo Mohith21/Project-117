@@ -1,0 +1,18 @@
+body{
+    background-color:indianred;
+}
+
+#score{
+    font-size: 20px;
+    margin: left;
+}
+
+#timer{
+    font-size: 20px;
+    float:right;
+    margin: right;
+}
+
+#sketch_to_be_drawn{
+    text-emphasis-color: yellow; 
+}
